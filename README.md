@@ -1,7 +1,7 @@
 # FoodScore
 
 <div align="center">
-  <img src="https://github.com/kyle-w-brown/FoodScore/blob/master/images/home.PNG"><br><br>
+  <img src="https://github.com/kyle-w-brown/FoodScore/blob/master/images/home-1.PNG"><br><br>
 </div>
 
 ## [FoodScore](https://rpubs.com/kylewbrown/FoodScore)
