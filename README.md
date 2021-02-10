@@ -34,7 +34,7 @@ FoodScore is an R dashboard designed to provide recommendations of the cleanest 
 </div>
 
 
-### BibTex
+### Citation
 
 ```sh 
 @Manual{,
