@@ -34,10 +34,9 @@ FoodScore is an R dashboard designed to provide recommendations of the cleanest 
 </div>
 
 
+### BibTex
 
-```sh
-CITATION : 
-
+```sh 
 @Manual{,
     title = {recommenderlab: Lab for Developing and Testing Recommender Algorithms},
     author = {Michael Hahsler},
