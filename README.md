@@ -4,7 +4,7 @@ FoodScore is an R dashboard designed to provide recommendations of the cleanest 
 
 ## [FoodScore](https://rpubs.com/kylewbrown/FoodScore)
 
-<div align="center">
+[//]: # <div align="center">
   <img src="https://github.com/kyle-w-brown/FoodScore/blob/master/images/explore.PNG"><br><br>
 </div>
 
