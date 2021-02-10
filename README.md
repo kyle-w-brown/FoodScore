@@ -37,10 +37,10 @@ FoodScore is an R dashboard designed to provide recommendations of the cleanest 
 ### Bibtex
 
 @Manual{,
-  title = {recommenderlab: Lab for Developing and Testing Recommender Algorithms},
-  author = {Michael Hahsler},
-  year = {2020},
-  note = {R package version 0.2-6},
-  url = {https://github.com/mhahsler/recommenderlab},
+    title = {recommenderlab: Lab for Developing and Testing Recommender Algorithms},
+    author = {Michael Hahsler},
+    year = {2020},
+    note = {R package version 0.2-6},
+    url = {https://github.com/mhahsler/recommenderlab},
 }
 
