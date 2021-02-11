@@ -11,7 +11,7 @@ FoodScore is an R dashboard designed to provide recommendations of the cleanest 
 ## FoodScore Images
 
 <div align="center">
-  <img src="https://github.com/kyle-w-brown/FoodScore/blob/master/images/home-1.PNG">{width=50%}<br><br>
+  <img src="https://github.com/kyle-w-brown/FoodScore/blob/master/images/home-1.PNG"><br><br>
 </div>
 
 <div align="center">
@@ -21,7 +21,7 @@ FoodScore is an R dashboard designed to provide recommendations of the cleanest 
 
 
 <div align="center">
-  <img src="https://github.com/kyle-w-brown/FoodScore/blob/master/images/model-2.PNG">{width=50%}<br><br>
+  <img src="https://github.com/kyle-w-brown/FoodScore/blob/master/images/model-2.PNG"><br><br>
 </div>
 
 
