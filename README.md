@@ -26,14 +26,4 @@ FoodScore is designed to provide recommendations of the cleanest restaurants in 
 
 
 
-### Citation
 
-```sh 
-@Manual{,
-    title = {recommenderlab: Lab for Developing and Testing Recommender Algorithms},
-    author = {Michael Hahsler},
-    year = {2020},
-    note = {R package version 0.2-6},
-    url = {https://github.com/mhahsler/recommenderlab},
-}
-```
