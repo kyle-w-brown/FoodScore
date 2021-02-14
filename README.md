@@ -60,7 +60,7 @@ This project initially consisted of a proposal with business objectives, impleme
 ## Problem
 
 <p align="center"> 
-<img src="images/problem-intro.PNG" data-canonical-src="images/problem-intro.PNG" width="450" height="300" /> <img src="images/problem.png" data-canonical-src="images/problem.png" width="450" height="300" />
+<img src="images/problem-intro.PNG" data-canonical-src="images/problem-intro.PNG" width="400" height="300" /> <img src="images/problem.png" data-canonical-src="images/problem.png" width="400" height="300" />
 </p>
 
 <p align="justify">
@@ -131,7 +131,7 @@ To put foodborne illness outbreaks into perspective, and why it’s a problem. F
      - Time Series plot of violation dates
 
 <p align="center"> 
-<img src="images/bar.PNG" data-canonical-src="images/bar.PNG" height="400" width="280" /> &nbsp;&nbsp; <img src="images/map.PNG" data-canonical-src="images/map.PNG" height="400" width="400" /> &nbsp;&nbsp; <img src="images/treemap.PNG" data-canonical-src="images/treemap.PNG" height="400" width="280" />
+<img src="images/bar.PNG" data-canonical-src="images/bar.PNG" height="400" width="280" /> &nbsp;&nbsp; <img src="images/map.PNG" data-canonical-src="images/map.PNG" height="400" width="350" /> &nbsp;&nbsp; <img src="images/treemap.PNG" data-canonical-src="images/treemap.PNG" height="400" width="280" />
 </p>
 
 <br>
