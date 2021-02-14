@@ -60,7 +60,7 @@ This project initially consisted of a proposal with business objectives, impleme
 ## Problem
 
 <p align="center"> 
-<img src="images/problem-intro.PNG" data-canonical-src="images/problem-intro.PNG" width="400" height="300" /> <img src="images/problem.png" data-canonical-src="images/problem.png" width="400" height="300" />
+<img src="images/problem-intro.PNG" data-canonical-src="images/problem-intro.PNG" width="380" height="250" /> <img src="images/problem.png" data-canonical-src="images/problem.png" width="380" height="250" />
 </p>
 
 <p align="justify">
