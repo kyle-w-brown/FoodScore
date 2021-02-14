@@ -51,7 +51,7 @@ This project initially consisted of a proposal with business objectives, impleme
 
 ## Data
 - **NYC Open Portal**
-     - [DOHMH Restuarant Violation Dataset](https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaurant-Inspection-Results/43nn-pn8j): NYC OpenData website posts DOHMH Inspection Violations daily.
+     - [DOHMH Restuarant Violation Dataset](https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaurant-Inspection-Results/43nn-pn8j): Inspection violations posted daily.
 
 <br>
 
