@@ -86,7 +86,7 @@ To put foodborne illness outbreaks into perspective, and why it’s a problem. F
 ## End-Users
 
 <p align="center"> 
-<img src="images/end-users.png" data-canonical-src="images/end-users.png" width="700" height="400" />
+<img src="images/end-users.png" data-canonical-src="images/end-users.png" width="550" height="300" />
 </p>
 
 <p align="justify">
@@ -98,7 +98,7 @@ To put foodborne illness outbreaks into perspective, and why it’s a problem. F
 ## Competition
 
 <p align="center"> 
-<img src="images/competition.png" data-canonical-src="images/competition.png" width="700" height="400" />
+<img src="images/competition.png" data-canonical-src="images/competition.png" width="550" height="300" />
 </p>
 
 <p align="justify">
@@ -131,7 +131,7 @@ To put foodborne illness outbreaks into perspective, and why it’s a problem. F
      - Time Series plot of violation dates
 
 <p align="center"> 
-<img src="images/bar.PNG" data-canonical-src="images/bar.PNG" height="300" width="180" /> &nbsp;&nbsp; <img src="images/map.PNG" data-canonical-src="images/map.PNG" height="300" width="300" /> &nbsp;&nbsp; <img src="images/treemap.PNG" data-canonical-src="images/treemap.PNG" height="300" width="180" />
+<img src="images/bar.PNG" data-canonical-src="images/bar.PNG" height="300" width="200" /> &nbsp;&nbsp; <img src="images/map.PNG" data-canonical-src="images/map.PNG" height="300" width="300" /> &nbsp;&nbsp; <img src="images/treemap.PNG" data-canonical-src="images/treemap.PNG" height="300" width="250" />
 </p>
 
 <br>
