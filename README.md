@@ -112,12 +112,6 @@ To put foodborne illness outbreaks into perspective, and why it’s a problem. F
 - PopCity allows users to map any food photos they find on social media outlets like Instagram or on the Popcity discovery channel. Using Instagram’s photo copy link feature, you can immediately import a post to your Popcity map. 
 </p>
 
-## Business Metrics
-- **Metrics**:
-     - Violations per DBA
-     - Critical Flags to Grade
-     - Cusine Type Violations
-
 ## Deliverables
 - **Final Deliverables**
     - Checkpoint presentations
