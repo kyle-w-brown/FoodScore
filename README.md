@@ -11,8 +11,6 @@ This project initially consisted of a proposal with business objectives, impleme
 3. Interactive visualizations with maps, barcharts, time series, piechart, and treemap.  
 4. Deliver final product through interactive web application. 
 
-<br>
-
 ## Website: [rpubs.com/kylewbrown/FoodScore](rpubs.com/kylewbrown/FoodScore)
 
 <br>
