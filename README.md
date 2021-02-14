@@ -131,7 +131,7 @@ To put foodborne illness outbreaks into perspective, and why it’s a problem. F
      - Time Series plot of violation dates
 
 <p align="center"> 
-<img src="images/bar.PNG" data-canonical-src="images/bar.PNG" height="400" width="180" /> &nbsp;&nbsp; <img src="images/map.PNG" data-canonical-src="images/map.PNG" height="400" width="300" /> &nbsp;&nbsp; <img src="images/treemap.PNG" data-canonical-src="images/treemap.PNG" height="400" width="180" />
+<img src="images/bar.PNG" data-canonical-src="images/bar.PNG" height="300" width="180" /> &nbsp;&nbsp; <img src="images/map.PNG" data-canonical-src="images/map.PNG" height="300" width="300" /> &nbsp;&nbsp; <img src="images/treemap.PNG" data-canonical-src="images/treemap.PNG" height="300" width="180" />
 </p>
 
 <br>
