@@ -71,7 +71,7 @@ To put foodborne illness outbreaks into perspective, and why it’s a problem. F
 ## Value Statement
 
 <p align="center"> 
-<img src="images/value.png" data-canonical-src="images/value.png" width="600" height="300" /> 
+<img src="images/value.png" data-canonical-src="images/value.png" width="550" height="300" /> 
 </p>
 
 ### Driving value through tourist revenue and clean establishments
