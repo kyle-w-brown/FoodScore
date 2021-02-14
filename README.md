@@ -144,8 +144,7 @@ To put foodborne illness outbreaks into perspective, and why it’s a problem. F
 
 <p align="justify">
      
-- In `recommenderab` concentration is placed on the second category of recommender algorithms called
-collaborative filtering. 
+- In `recommenderab` concentration is placed on the second category of recommender algorithms called collaborative filtering. 
 - The idea is that given rating data by many users for many items (e.g., 1 to 5 stars for movies elicited directly from the users), one can predict a user’s rating for an item not known to her or him or create for a user a so called top-N lists of recommended items. 
 - The importance and economic impact of research in this field is reflected by the Netflix Prize4, a challenge to improve the predictions of Netflix’s movie recommender system in which the grand price of 1 million dollar was awarded in September 2009.
 
