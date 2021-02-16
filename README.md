@@ -17,29 +17,29 @@ This project initially consisted of a proposal with business objectives, impleme
 
 # Table of Contents
 
-1. **[Proposal](#one.-proposal)**
+- **[Proposal](#one.-proposal)**
      - Data
-2. **[Business Objectives](#business-objectives)**
+- **[Business Objectives](#business-objectives)**
      - Problem
      - Value Statement 
      - End-User
      - Competition
      - Business Metrics
      - Deliverables 
-3. **[Visualization](#visualization)**
+- **[Visualization](#visualization)**
      - Bar charts
      - Maps
      - Time Series
      - Treemaps
-4. **[Model](#model)**
+- **[Model](#model)**
      - Collaborative Filtering (CF)
      - Item-Based Collaborative Filtering (IBCF)
      - User-Based Collaborative Filtering (UBCF)            
-5. **[Checkpoint Presentation Videos](#checkpoints)**
+- **[Checkpoint Presentation Videos](#checkpoints)**
      - Checkpoint 1 Video
      - Checkpoint 2 Video
      - Checkpoint 3 Video
-6. **[FoodScore Screenshots](#foodscore-screenshots)**
+- **[FoodScore Screenshots](#foodscore-screenshots)**
      - Home 
      - Explore 
      - Model
@@ -47,7 +47,7 @@ This project initially consisted of a proposal with business objectives, impleme
      - Contact
 <br>
 
-# **1. Proposal** 
+# **Proposal** 
 
 > ***To reduce foodborne illness outbreaks and food poisioning deaths by creating awareness of restuarant inspection violation updates.***
 
@@ -70,7 +70,7 @@ To put foodborne illness outbreaks into perspective, and why it’s a problem. F
 </p>
 
     
-## **3. Value Statement**
+## **Value Statement**
 
 <p align="center"> 
 <img src="images/value.png" data-canonical-src="images/value.png" width="550" height="300" /> 
@@ -119,7 +119,7 @@ To put foodborne illness outbreaks into perspective, and why it’s a problem. F
     
 <br>
 
-# **3. Visualization**
+# **Visualization**
 - **Interactive Visualizations**
      - Treemap of violations by cuisine type 
      - Choropleth map of violations to zip code  
@@ -170,7 +170,7 @@ To put foodborne illness outbreaks into perspective, and why it’s a problem. F
 
 <br>
 
-# . **5. Checkpoints**
+# . **Checkpoints**
 
 ## Checkpoint 1
 
@@ -196,7 +196,7 @@ To put foodborne illness outbreaks into perspective, and why it’s a problem. F
    
 <br>   
 
-# **6. FoodScore Screenshots**
+# **FoodScore Screenshots**
 
 ## Home
 
