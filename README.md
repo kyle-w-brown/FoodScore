@@ -57,7 +57,7 @@ This project initially consisted of a proposal with business objectives, impleme
 
 <br>
 
-# 2. Business Objectives
+# Business Objectives
 
 ## Problem
 
@@ -132,7 +132,7 @@ To put foodborne illness outbreaks into perspective, and why it’s a problem. F
 
 <br>
 
-# **4. Model**
+# **Model**
 
 ## `recommenderlab`
 
