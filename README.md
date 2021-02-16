@@ -17,7 +17,7 @@ This project initially consisted of a proposal with business objectives, impleme
 
 # Table of Contents
 
-- **[Proposal](#one.-proposal)**
+- **[Proposal](#proposal)**
      - Data
 - **[Business Objectives](#business-objectives)**
      - Problem
