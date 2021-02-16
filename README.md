@@ -31,7 +31,7 @@ This project initially consisted of a proposal with business objectives, impleme
      - Maps
      - Time Series
      - Treemaps
-- **[Model](#model)**
+- ## **[Model](#model)**
      - Collaborative Filtering (CF)
      - Item-Based Collaborative Filtering (IBCF)
      - User-Based Collaborative Filtering (UBCF)            
