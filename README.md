@@ -6,10 +6,10 @@ This project initially consisted of a proposal with business objectives, impleme
 
 ## Overview
 
-1. Proposal with dataset accompanied by business objectives concentrating on problem, value statement, and competition. 
-2. Model building with collaborative filtering using item-based and user-based recommender algorithms. 
-3. Interactive visualizations with maps, barcharts, time series, piechart, and treemap.  
-4. Deliver final product through interactive web application. 
+- Proposal with dataset accompanied by business objectives concentrating on problem, value statement, and competition. 
+- Model building with collaborative filtering using item-based and user-based recommender algorithms. 
+- Interactive visualizations with maps, barcharts, time series, piechart, and treemap.  
+- Deliver final product through interactive web application. 
 
 ## Website: [rpubs.com/kylewbrown/FoodScore](https://rpubs.com/kylewbrown/foodscore)
 
@@ -17,29 +17,29 @@ This project initially consisted of a proposal with business objectives, impleme
 
 # Table of Contents
 
-- **[Proposal](#proposal)**
+1. **[Proposal](#proposal)**
      - Data
-- **[Business Objectives](#business-objectives)**
+2. **[Business Objectives](#business-objectives)**
      - Problem
      - Value Statement 
      - End-User
      - Competition
      - Business Metrics
      - Deliverables 
-- **[Visualization](#visualization)**
+3. **[Visualization](#visualization)**
      - Bar charts
      - Maps
      - Time Series
      - Treemaps
-- **[Model](#model)**
+4. **[Model](#model)**
      - Collaborative Filtering (CF)
      - Item-Based Collaborative Filtering (IBCF)
      - User-Based Collaborative Filtering (UBCF)            
-- **[Checkpoint Presentation Videos](#checkpoints)**
+5. **[Checkpoint Presentation Videos](#checkpoints)**
      - Checkpoint 1 Video
      - Checkpoint 2 Video
      - Checkpoint 3 Video
-- **[FoodScore Screenshots](#foodscore-screenshots)**
+6. **[FoodScore Screenshots](#foodscore-screenshots)**
      - Home 
      - Explore 
      - Model
@@ -47,7 +47,7 @@ This project initially consisted of a proposal with business objectives, impleme
      - Contact
 <br>
 
-# Proposal 
+# **1. Proposal** 
 
 > ***To reduce foodborne illness outbreaks and food poisioning deaths by creating awareness of restuarant inspection violation updates.***
 
@@ -57,7 +57,7 @@ This project initially consisted of a proposal with business objectives, impleme
 
 <br>
 
-# Business Objectives
+# 2. Business Objectives
 
 ## Problem
 
@@ -70,7 +70,7 @@ To put foodborne illness outbreaks into perspective, and why it’s a problem. F
 </p>
 
     
-## Value Statement
+## **3. Value Statement**
 
 <p align="center"> 
 <img src="images/value.png" data-canonical-src="images/value.png" width="550" height="300" /> 
@@ -119,7 +119,7 @@ To put foodborne illness outbreaks into perspective, and why it’s a problem. F
     
 <br>
 
-# Visualization
+# **3. Visualization**
 - **Interactive Visualizations**
      - Treemap of violations by cuisine type 
      - Choropleth map of violations to zip code  
@@ -132,7 +132,7 @@ To put foodborne illness outbreaks into perspective, and why it’s a problem. F
 
 <br>
 
-# **Model**
+# **4. Model**
 
 ## `recommenderlab`
 
@@ -170,7 +170,7 @@ To put foodborne illness outbreaks into perspective, and why it’s a problem. F
 
 <br>
 
-# Checkpoints
+# . **5. Checkpoints**
 
 ## Checkpoint 1
 
@@ -196,7 +196,7 @@ To put foodborne illness outbreaks into perspective, and why it’s a problem. F
    
 <br>   
 
-# FoodScore Screenshots
+# **6. FoodScore Screenshots**
 
 ## Home
 
