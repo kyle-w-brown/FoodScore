@@ -160,13 +160,17 @@ To put foodborne illness outbreaks into perspective, and why it’s a problem. F
      - The model-building step consists of calculating a similarity matrix containing all item-to-item similarities using a given similarity measure.
 
 - **Model Metrics**:
-     - RMSE
-     - MSE
-     - MAE
-
+     - **RMSE**: The root-mean-square deviation or root-mean-square error is a frequently used measure of the differences between values predicted by a model or an estimator and the values observed. [Wikipedia](https://en.wikipedia.org/wiki/Root-mean-square_deviation)
+     - **MSE**: The mean squared error or mean squared deviation of an estimator measures the average of the squares of the errors—that is, the average squared difference between the estimated values and the actual value. MSE is a risk function, corresponding to the expected value of the squared error loss. [Wikipedia](https://en.wikipedia.org/wiki/Mean_squared_error)
+     - **MAE**: Mean absolute error is a measure of errors between paired observations expressing the same phenomenon. Examples of Y versus X include comparisons of predicted versus observed, subsequent time versus initial time, and one technique of measurement versus an alternative technique of measurement. [Wikipedia](https://en.wikipedia.org/wiki/Mean_absolute_error)
+     
+- **Results**
+     - The IBCF model recommender predicted `ESSEN with an RMSE=2.642, MSE = 6.978, and MAE = 2.180.
+     - The observed UBCF recommender of `ESSEN predicted at RMSE = 1.986, MSE = 3.945, MAE = 1.511, with 118 KITCHEN performing RMSE = 1.057, MSE = 1.116, MAE = 0.871.
+   
 - **Model Summary**
      - The IBCF recommender method type is transformed into a sparse matrix object using the POPULAR method with the first 100 data points to issue three (TopN = 5) recommendations for a new DBA. 
-     - In UBCF the procedure is to first find other users that are similar to a given user, then find the top-rated items purchased by those users. Those items are then recommended for the given user.
+     - In UBCF the procedure is to first find other users that are similar to a given user, then find the top-rated items violations by those users. Those items are then recommended for the given user.
 </p>
 
 <br>
