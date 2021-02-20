@@ -173,6 +173,7 @@ To put foodborne illness outbreaks into perspective, and why it’s a problem. F
 - **Model Summary**
      - The IBCF recommender method type is transformed into a sparse matrix object using the POPULAR method with the first 100 data points to issue three (TopN = 5) recommendations for a new DBA. 
      - In UBCF the procedure is to first find other users that are similar to a given user, then find the top-rated items violations by those users. Those items are then recommended for the given user.
+     - The importance and the economic impact of research in this field is reflected by the Netflix Prize4, a challenge to improve the predictions of Netflix’s movie recommender system in which the grand price of 1 million dollar was awarded in September 2009.
 </p>
 
 <br>
