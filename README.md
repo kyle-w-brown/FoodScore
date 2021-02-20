@@ -20,6 +20,7 @@ This project initially consisted of a proposal with business objectives, impleme
 - **[Proposal](#proposal)**
      - Data
 - **[Business Objectives](#business-objectives)**
+     - `recommenderlab`   
      - Problem
      - Value Statement 
      - End-User
