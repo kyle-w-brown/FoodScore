@@ -35,7 +35,9 @@ This project initially consisted of a proposal with business objectives, impleme
      - `recommenderlab`  
      - Collaborative Filtering (CF)
      - Item-Based Collaborative Filtering (IBCF)
-     - User-Based Collaborative Filtering (UBCF)            
+     - User-Based Collaborative Filtering (UBCF) 
+     - Results
+     - Model Summary           
 - **[Checkpoint Presentation Videos](#checkpoints)**
      - Checkpoint 1 Video
      - Checkpoint 2 Video
