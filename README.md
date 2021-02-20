@@ -19,8 +19,7 @@ This project initially consisted of a proposal with business objectives, impleme
 
 - **[Proposal](#proposal)**
      - Data
-- **[Business Objectives](#business-objectives)**
-     - `recommenderlab`   
+- **[Business Objectives](#business-objectives)** 
      - Problem
      - Value Statement 
      - End-User
@@ -33,6 +32,7 @@ This project initially consisted of a proposal with business objectives, impleme
      - Time Series
      - Treemaps
 - **[Model](#model)**
+     - `recommenderlab`  
      - Collaborative Filtering (CF)
      - Item-Based Collaborative Filtering (IBCF)
      - User-Based Collaborative Filtering (UBCF)            
