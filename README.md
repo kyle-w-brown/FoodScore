@@ -3,10 +3,6 @@
 <p align="center"> 
 <img src="images/home-two.PNG" data-canonical-src="images/home-2.PNG"/> 
 </p>
-
-<p align="center"> 
-<img src="images/home-two.PNG" data-canonical-src="images/home-2.PNG" width="500" height="350" /> 
-</p>
  
 <p align="justify">
 This project initially consisted of a proposal with business objectives, implementing a recommedation system, and delivering a final product in the form of a web application. FoodScore was quickly adopted as a proof of concept with the focus on value creation, food safety, and integrating interactive visualizations.  
