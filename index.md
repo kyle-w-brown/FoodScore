@@ -106,7 +106,6 @@ To put foodborne illness outbreaks into perspective, and why it’s a problem. F
 <img src="https://github.com/kyle-w-brown/FoodScore/raw/master/images/competition.png" data-canonical-src="https://github.com/kyle-w-brown/FoodScore/raw/master/images/competition.png" width="550" height="300" />
 </p>
 
-
 - SALT lets you view a restaurant’s menu, make a reservation through OpenTable when applicable, and even allows you to request an Uber to any of your saved locations. 
 
 - ChefsFeed capitalizes on the credibility and clout of leading professional chefs to help New Yorkers discover new spots in a social media-type network. 
@@ -137,7 +136,6 @@ To put foodborne illness outbreaks into perspective, and why it’s a problem. F
 
 ## `recommenderlab`
 
-     
 - In `recommenderab` concentration is placed on the second category of recommender algorithms called collaborative filtering. 
 
 ## Collaborative Filtering
@@ -163,31 +161,30 @@ To put foodborne illness outbreaks into perspective, and why it’s a problem. F
      - The IBCF recommender method type is transformed into a sparse matrix object using the POPULAR method with the first 100 data points to issue three (TopN = 5) recommendations for a new DBA. 
      - In UBCF the procedure is to first find other users that are similar to a given user, then find the top-rated items violations by those users. Those items are then recommended for the given user.
 
-
 <br>
 
 # **Checkpoints**
 
 ## Checkpoint 1
 
-<p align="center"> 
-   <a  href="https://youtu.be/57SIwoPWfSg">   
+
+   <a href="https://youtu.be/57SIwoPWfSg">   
 <img src="https://github.com/kyle-w-brown/FoodScore/raw/master/images/checkpoint-one.png"  data-canonical-src="https://youtu.be/57SIwoPWfSg" alt="Checkpoint 1"  width="600" height="400" />
-</p>
+
 
 ## Checkpoint 2
 
-<p align="center"> 
-   <a href="https://youtu.be/a1V14WlvNNQ" target="_blank">   
+
+<a href="https://youtu.be/a1V14WlvNNQ" target="_blank">   
 <img src="https://github.com/kyle-w-brown/FoodScore/raw/master/images/checkpoint-two.png"  data-canonical-src="https://www.youtube.com/watch?v=BQqEMLOOMCo" alt="Checkpoint 2"  width="600" height="400" />
-</p>
+
 
 ## Checkpoint 3
 
-<p align="center"> 
-   <a href="https://youtu.be/jwJSjUchJ6M" target="_blank">   
+
+<a href="https://youtu.be/jwJSjUchJ6M" target="_blank">   
 <img src="https://github.com/kyle-w-brown/FoodScore/raw/master/images/checkpoint-three.png"  data-canonical-src="https://www.youtube.com/watch?v=BQqEMLOOMCo" alt="Checkpoint 3"  width="600" height="400" />
-</p>
+
    
 <br>   
 
@@ -195,34 +192,34 @@ To put foodborne illness outbreaks into perspective, and why it’s a problem. F
 
 ## Home
 
-<p align="center"> 
+
 <img src="https://github.com/kyle-w-brown/FoodScore/raw/master/images/home.png" data-canonical-src="https://github.com/kyle-w-brown/FoodScore/raw/master/images/home.png" width="700" height="400" />
-</p>
+
 
 ## Explore
 
-<p align="center"> 
+
 <img src="https://github.com/kyle-w-brown/FoodScore/raw/master/images/explore.png" data-canonical-src="https://github.com/kyle-w-brown/FoodScore/raw/master/images/explore.png" width="700" height="400" />
-</p>
+
 
 ## Model
 
-<p align="center"> 
+
 <img src="https://github.com/kyle-w-brown/FoodScore/raw/master/images/model.png" data-canonical-src="https://github.com/kyle-w-brown/FoodScore/raw/master/images/model.png" width="700" height="400" />
-</p>
+
 
 
 ## About
 
-<p align="center"> 
+
 <img src="https://github.com/kyle-w-brown/FoodScore/raw/master/images/about.png" data-canonical-src="https://github.com/kyle-w-brown/FoodScore/raw/master/images/about.png" width="700" height="400" />
-</p>
+
 
 ## Contact
 
-<p align="center"> 
+
 <img src="https://github.com/kyle-w-brown/FoodScore/raw/master/images/contact.png" data-canonical-src="https://github.com/kyle-w-brown/FoodScore/raw/master/images/contact.png" width="700" height="400" />
-</p>
+
 
 ### Citation
 
