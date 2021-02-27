@@ -1,7 +1,7 @@
 # FoodScore
 
 <p align="center"> 
-<img src="images/home-two.PNG" data-canonical-src="images/home-2.PNG"/> 
+<img src="https://github.com/kyle-w-brown/FoodScore/raw/master/images/home-two.PNG" data-canonical-src="https://github.com/kyle-w-brown/FoodScore/raw/master/images/home-two.PNG"/> 
 </p>
  
 <p align="justify">
@@ -69,7 +69,7 @@ This project initially consisted of a proposal with business objectives, impleme
 ## Problem
 
 <p align="center"> 
-<img src="images/problem-intro.PNG" data-canonical-src="images/problem-intro.PNG" width="380" height="250" /> <img src="images/problem.png" data-canonical-src="images/problem.png" width="380" height="250" />
+<img src="https://github.com/kyle-w-brown/FoodScore/raw/master/images/problem-intro.PNG" data-canonical-src="https://github.com/kyle-w-brown/FoodScore/raw/master/images/problem-intro.PNG" width="380" height="250" /> <img src="https://github.com/kyle-w-brown/FoodScore/raw/master/images/problem.png" data-canonical-src="https://github.com/kyle-w-brown/FoodScore/raw/master/images/problem.png" width="380" height="250" />
 </p>
 
 <p align="justify">
@@ -80,7 +80,7 @@ To put foodborne illness outbreaks into perspective, and why it’s a problem. F
 ## **Value Statement**
 
 <p align="center"> 
-<img src="images/value.png" data-canonical-src="images/value.png" width="550" height="300" /> 
+<img src="https://github.com/kyle-w-brown/FoodScore/raw/master/images/value.png" data-canonical-src="https://github.com/kyle-w-brown/FoodScore/raw/master/images/value.png" width="550" height="300" /> 
 </p>
 
 ### Driving value through tourist revenue and clean establishments
@@ -95,7 +95,7 @@ To put foodborne illness outbreaks into perspective, and why it’s a problem. F
 ## End-Users
 
 <p align="center"> 
-<img src="images/end-users.png" data-canonical-src="images/end-users.png" width="550" height="300" />
+<img src="https://github.com/kyle-w-brown/FoodScore/raw/master/images/end-users.png" data-canonical-src="https://github.com/kyle-w-brown/FoodScore/raw/master/images/end-users.png" width="550" height="300" />
 </p>
 
 <p align="justify">
@@ -107,7 +107,7 @@ To put foodborne illness outbreaks into perspective, and why it’s a problem. F
 ## Competition
 
 <p align="center"> 
-<img src="images/competition.png" data-canonical-src="images/competition.png" width="550" height="300" />
+<img src="https://github.com/kyle-w-brown/FoodScore/raw/master/images/competition.png" data-canonical-src="https://github.com/kyle-w-brown/FoodScore/raw/master/images/competition.png" width="550" height="300" />
 </p>
 
 <p align="justify">
@@ -134,7 +134,7 @@ To put foodborne illness outbreaks into perspective, and why it’s a problem. F
      - Time Series plot of violation dates
 
 <p align="center"> 
-<img src="images/bar.PNG" data-canonical-src="images/bar.PNG" height="350" width="200" /> <img src="images/map.PNG" data-canonical-src="images/map.PNG" height="350" width="290" /> <img src="images/treemap.PNG" data-canonical-src="images/treemap.PNG" height="350" width="250" />
+<img src="https://github.com/kyle-w-brown/FoodScore/raw/master/images/bar.PNG" data-canonical-src="https://github.com/kyle-w-brown/FoodScore/raw/master/images/bar.PNG" height="350" width="200" /> <img src="https://github.com/kyle-w-brown/FoodScore/raw/master/images/map.PNG" data-canonical-src="https://github.com/kyle-w-brown/FoodScore/raw/master/images/map.PNG" height="350" width="290" /> <img src="https://github.com/kyle-w-brown/FoodScore/raw/master/images/treemap.PNG" data-canonical-src="https://github.com/kyle-w-brown/FoodScore/raw/master/images/treemap.PNG" height="350" width="250" />
 </p>
 
 <br>
@@ -179,7 +179,7 @@ To put foodborne illness outbreaks into perspective, and why it’s a problem. F
 
 <p align="center"> 
    <a  href="https://youtu.be/57SIwoPWfSg">   
-<img src="images/checkpoint-one.png"  data-canonical-src="https://youtu.be/57SIwoPWfSg" alt="Checkpoint 1"  width="600" height="400" />
+<img src="https://github.com/kyle-w-brown/FoodScore/raw/master/images/checkpoint-one.png"  data-canonical-src="https://youtu.be/57SIwoPWfSg" alt="Checkpoint 1"  width="600" height="400" />
 </p>
                                                                                                                                                                                                                                                                                                          
 
@@ -187,14 +187,14 @@ To put foodborne illness outbreaks into perspective, and why it’s a problem. F
 
 <p align="center"> 
    <a href="https://youtu.be/a1V14WlvNNQ" target="_blank">   
-<img src="images/checkpoint-two.png"  data-canonical-src="https://www.youtube.com/watch?v=BQqEMLOOMCo" alt="Checkpoint 2"  width="600" height="400" />
+<img src="https://github.com/kyle-w-brown/FoodScore/raw/master/images/checkpoint-two.png"  data-canonical-src="https://www.youtube.com/watch?v=BQqEMLOOMCo" alt="Checkpoint 2"  width="600" height="400" />
 </p>
 
 ## Checkpoint 3
 
 <p align="center"> 
    <a href="https://youtu.be/jwJSjUchJ6M" target="_blank">   
-<img src="images/checkpoint-three.png"  data-canonical-src="https://www.youtube.com/watch?v=BQqEMLOOMCo" alt="Checkpoint 3"  width="600" height="400" />
+<img src="https://github.com/kyle-w-brown/FoodScore/raw/master/images/checkpoint-three.png"  data-canonical-src="https://www.youtube.com/watch?v=BQqEMLOOMCo" alt="Checkpoint 3"  width="600" height="400" />
 </p>
    
 <br>   
@@ -204,32 +204,32 @@ To put foodborne illness outbreaks into perspective, and why it’s a problem. F
 ## Home
 
 <p align="center"> 
-<img src="images/home.png" data-canonical-src="images/home.png" width="700" height="400" />
+<img src="https://github.com/kyle-w-brown/FoodScore/raw/master/images/home.png" data-canonical-src=https://github.com/kyle-w-brown/FoodScore/raw/master/images/home.png" width="700" height="400" />
 </p>
 
 ## Explore
 
 <p align="center"> 
-<img src="images/explore.png" data-canonical-src="images/explore.png" width="700" height="400" />
+<img src="https://github.com/kyle-w-brown/FoodScore/raw/master/images/explore.png" data-canonical-src="https://github.com/kyle-w-brown/FoodScore/raw/master/images/explore.png" width="700" height="400" />
 </p>
 
 ## Model
 
 <p align="center"> 
-<img src="images/model.png" data-canonical-src="images/model.png" width="700" height="400" />
+<img src="https://github.com/kyle-w-brown/FoodScore/raw/master/images/model.png" data-canonical-src="https://github.com/kyle-w-brown/FoodScore/raw/master/images/model.png" width="700" height="400" />
 </p>
 
 
 ## About
 
 <p align="center"> 
-<img src="images/about.png" data-canonical-src="images/about.png" width="700" height="400" />
+<img src="https://github.com/kyle-w-brown/FoodScore/raw/master/images/about.png" data-canonical-src="https://github.com/kyle-w-brown/FoodScore/raw/master/images/about.png" width="700" height="400" />
 </p>
 
 ## Contact
 
 <p align="center"> 
-<img src="images/contact.png" data-canonical-src="images/contact.png" width="700" height="400" />
+<img src="https://github.com/kyle-w-brown/FoodScore/raw/master/images/contact.png" data-canonical-src="https://github.com/kyle-w-brown/FoodScore/raw/master/images/contact.png" width="700" height="400" />
 </p>
 
 ### Citation
