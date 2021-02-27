@@ -85,11 +85,12 @@ To put foodborne illness outbreaks into perspective, and why it’s a problem. F
 
 ### Driving value through tourist revenue and clean establishments
 
+<p align="justify">
      
 - **Value Proposition**
      - Increasing tourist spending in restaurants by 1% would account for $90 million in revenue.
      - Americans spend an average of $33 per day on food when on a domestic vacation, about 80% of which is spent in restaurants ([Value Penguin](https://www.valuepenguin.com/average-cost-vacation)) 
-
+</p>
 
 ## End-Users
 
@@ -97,11 +98,11 @@ To put foodborne illness outbreaks into perspective, and why it’s a problem. F
 <img src="images/end-users.png" data-canonical-src="images/end-users.png" width="550" height="300" />
 </p>
 
-
+<p align="justify">
      
 - The end users for FoodScore would be restauranteurs, foodies, bloggers, or general consumers. 
 - A consumer would be anyone looking to grab a clean bite to eat close to work, their hotel, shopping, or most importantly close to Broadway (most violations & 23% more violations than 3rd Avenue). 
-
+</p>
 
 ## Competition
 
@@ -109,14 +110,14 @@ To put foodborne illness outbreaks into perspective, and why it’s a problem. F
 <img src="images/competition.png" data-canonical-src="images/competition.png" width="550" height="300" />
 </p>
 
-
+<p align="justify">
 
 - SALT lets you view a restaurant’s menu, make a reservation through OpenTable when applicable, and even allows you to request an Uber to any of your saved locations. 
 
 - ChefsFeed capitalizes on the credibility and clout of leading professional chefs to help New Yorkers discover new spots in a social media-type network. 
 
 - PopCity allows users to map any food photos they find on social media outlets like Instagram or on the Popcity discovery channel. Using Instagram’s photo copy link feature, you can immediately import a post to your Popcity map. 
-
+</p>
 
 ## Deliverables
 - **Final Deliverables**
@@ -142,6 +143,7 @@ To put foodborne illness outbreaks into perspective, and why it’s a problem. F
 
 ## `recommenderlab`
 
+<p align="justify">
      
 - In `recommenderab` concentration is placed on the second category of recommender algorithms called collaborative filtering. 
 
@@ -167,6 +169,7 @@ To put foodborne illness outbreaks into perspective, and why it’s a problem. F
 - **Model Summary**
      - The IBCF recommender method type is transformed into a sparse matrix object using the POPULAR method with the first 100 data points to issue three (TopN = 5) recommendations for a new DBA. 
      - In UBCF the procedure is to first find other users that are similar to a given user, then find the top-rated items violations by those users. Those items are then recommended for the given user.
+</p>
 
 <br>
 
