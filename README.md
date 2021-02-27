@@ -173,7 +173,7 @@ To put foodborne illness outbreaks into perspective, and why it’s a problem. F
 
 <br>
 
-# . **Checkpoints**
+# **Checkpoints**
 
 ## Checkpoint 1
 
