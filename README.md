@@ -85,12 +85,11 @@ To put foodborne illness outbreaks into perspective, and why it’s a problem. F
 
 ### Driving value through tourist revenue and clean establishments
 
-<p align="justify">
      
 - **Value Proposition**
      - Increasing tourist spending in restaurants by 1% would account for $90 million in revenue.
      - Americans spend an average of $33 per day on food when on a domestic vacation, about 80% of which is spent in restaurants ([Value Penguin](https://www.valuepenguin.com/average-cost-vacation)) 
-</p>
+
 
 ## End-Users
 
