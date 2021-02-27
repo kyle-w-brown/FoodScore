@@ -174,7 +174,6 @@ To put foodborne illness outbreaks into perspective, and why it’s a problem. F
    <a  href="https://youtu.be/57SIwoPWfSg">   
 <img src="https://github.com/kyle-w-brown/FoodScore/raw/master/images/checkpoint-one.png"  data-canonical-src="https://youtu.be/57SIwoPWfSg" alt="Checkpoint 1"  width="600" height="400" />
 </p>
-                                                                                                                                                                                                                                                                                                         
 
 ## Checkpoint 2
 
