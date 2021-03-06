@@ -28,7 +28,6 @@ This project initially consisted of a proposal with business objectives, impleme
      - Value Statement 
      - End-User
      - Competition
-     - Business Metrics
      - Deliverables 
 - **[Visualization](#visualization)**
      - Bar charts
