@@ -1,7 +1,7 @@
 # FoodScore
 
 <p align="center"> 
-<img src="images/home-two.PNG" data-canonical-src="images/home-2.PNG"/> 
+<img src="images/foodscore.PNG" data-canonical-src="images/foodscore.PNG"/> 
 </p>
  
 <p align="justify">
