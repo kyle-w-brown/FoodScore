@@ -39,8 +39,8 @@ This project initially consisted of a proposal with business objectives, impleme
      - Collaborative Filtering (CF)
      - Item-Based Collaborative Filtering (IBCF)
      - User-Based Collaborative Filtering (UBCF) 
-     - Results
-     - Model Summary           
+     - CF Summary   
+     - Results        
 - **[Checkpoint Presentation Videos](#checkpoints)**
      - Checkpoint 1 Video
      - Checkpoint 2 Video
@@ -160,14 +160,14 @@ To put foodborne illness outbreaks into perspective, and why it’s a problem. F
      - Item-based CF is a model-based approach which produces recommendations based on the relationship between items inferred from the rating matrix. 
      - The assumption behind this approach is that users will prefer items that are similar to other items they like.
      - The model-building step consists of calculating a similarity matrix containing all item-to-item similarities using a given similarity measure.
+
+- **CF Summary**
+     - The IBCF recommender method type is transformed into a sparse matrix object using the POPULAR method with the first 100 data points to issue three (TopN = 5) recommendations for a new DBA. 
+     - In UBCF the procedure is to first find other users that are similar to a given user, then find the top-rated items violations by those users. Those items are then recommended for the given user.
      
 - **Results**
      - The IBCF model recommender predicted `ESSEN with an RMSE=2.642, MSE = 6.978, and MAE = 2.180.
      - The observed UBCF recommender of `ESSEN predicted at RMSE = 1.986, MSE = 3.945, MAE = 1.511, with 118 KITCHEN performing RMSE = 1.057, MSE = 1.116, MAE = 0.871.
-   
-- **Model Summary**
-     - The IBCF recommender method type is transformed into a sparse matrix object using the POPULAR method with the first 100 data points to issue three (TopN = 5) recommendations for a new DBA. 
-     - In UBCF the procedure is to first find other users that are similar to a given user, then find the top-rated items violations by those users. Those items are then recommended for the given user.
 </p>
 
 <br>
