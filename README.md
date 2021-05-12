@@ -152,12 +152,12 @@ To put foodborne illness outbreaks into perspective, and why it’s a problem. F
      - Uses given rating data by many users for multiple items as the basis for predicting missing ratings and/or for creating a top-N recommendation list for a given user, called the active user.
 
 - **User-Based Collaborative Filtering (UBCF)**
-     - User-based CF is a memory-based algorithm which tries to mimics word-of-mouth by analyzing rating data from many individuals. 
+     - User-Based CF is a memory-based algorithm which tries to mimics word-of-mouth by analyzing rating data from many individuals. 
      - The assumption is that users with similar preferences will rate items similarly. Thus missing ratings for a user can be predicted by first finding a neighborhood of similar users and then aggregate the ratings of these users to form a prediction. 
      - The neighborhood is defined in terms of similarity between users, either by taking a given number of most similar users (k nearest neighbors) or all users within a given similarity threshold. 
      
 - **Item-Based Collaborative Filtering (IBCF)**
-     - Item-based CF is a model-based approach which produces recommendations based on the relationship between items inferred from the rating matrix. 
+     - Item-Based CF is a model-based approach which produces recommendations based on the relationship between items inferred from the rating matrix. 
      - The assumption behind this approach is that users will prefer items that are similar to other items they like.
      - The model-building step consists of calculating a similarity matrix containing all item-to-item similarities using a given similarity measure.
 
