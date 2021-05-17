@@ -55,7 +55,7 @@ This project initially consisted of a proposal with business objectives, impleme
 
 # **Proposal** 
 
-> ***To reduce foodborne illness outbreaks and food poisioning deaths by creating awareness of restuarant inspection violation updates.***
+> ***Reduce foodborne illness outbreaks and food poisioning deaths by creating awareness of restuarant inspection violation updates.***
 
 ## Data
 - **NYC Open Portal**
