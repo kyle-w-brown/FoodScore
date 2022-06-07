@@ -14,7 +14,7 @@
 - Interactive visualizations with maps, barcharts, time series, piechart, and treemap.  
 - Deliver final product through interactive web application. 
 
-## Website: [rpubs.com/kylewbrown/FoodScore](https://rpubs.com/kylewbrown/foodscore)
+## Website: [FoodScore](https://www.kyle-w-brown.com/FoodScore/)
 
 <br>
 
